@@ -1,5 +1,7 @@
 <div align= "center">
-    ![github_banner](https://github.com/user-attachments/assets/9db165ed-dcd3-4ab4-bf4e-4eaf4c2b231a)
+    /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jang-Yoonyoung&layout=compact&bg_color=60,ffc8c8,fedcdd&title_color=ffffff&text_color="fefefe"
+           /> </div> 
+    </div>
 
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🥰 Introduction </h2>  
