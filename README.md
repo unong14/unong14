@@ -1,7 +1,6 @@
-<div align= "center"> 
-      <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fedcdd,100:fe526f&height=240&text=Yoonyoung's%20Github&animation=scaleIn&fontColor=ffffff&fontSize=60" />
+<div align= "center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fedcdd,100:fe526f&height=240&text=Yoonyoung's%20Github&animation=scaleIn&fontColor=ffffff&fontSize=60" />
     </div>
-
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🥰 Introduction </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 안녕하세요! 저는 꾸준히 성장하는 개발자 장윤영입니다. </div> 
