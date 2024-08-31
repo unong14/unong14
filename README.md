@@ -1,9 +1,9 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fedcdd,100:bfa5a6&height=180&text=Hello!&animation=scaleIn&fontColor=574142&fontSize=60" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fedcdd,100:bfa5a6&height=240&text=Yoonyoung's%20Github&animation=scaleIn&fontColor=ffffff&fontSize=60" />
     </div>
     <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;">  </div> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🥰 Introduction </h2>  
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 안녕하세요! 저는 꾸준히 성장하는 개발자 장윤영입니다. </div> 
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
@@ -26,8 +26,8 @@
     <div align= "center">  </div> 
     </div>
     <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=Jang-Yoonyoung&bg_color=60,fedcdd,fad0c4&title_color=000000&text_color=000000"
-         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jang-Yoonyoung&layout=compact&bg_color=60,fedcdd,fad0c4&title_color=000000&text_color=000000"
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=Jang-Yoonyoung&bg_color=60,ffc8c8,fedcdd&title_color=ffffff&text_color=ffffff"
+         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jang-Yoonyoung&layout=compact&bg_color=60,ffc8c8,fedcdd&title_color=ffffff&text_color=ffffff"
            /> </div> 
     </div>
     
